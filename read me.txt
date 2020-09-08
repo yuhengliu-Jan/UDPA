@@ -1,0 +1,4 @@
+This platform is for UAV to cover the ground node simulation. 
+map_inf.tcl file is a Manhattan grid of buildings and streets established by IUT-R parameters in different urban environments.
+The analytic geometry method is used to determine whether the communication link between UAV and ground nodes is blocked by obstacles.
+You can open different altitude simulation experiments under a-300m-สตั้.py series files.
